@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... pressure gauges, pressure transmitters, pressure switches, diaphragm seals, thermometers & digital instruments
 - 💬 Ask me about ... pressure gauges, pressure transmitters, pressure switches, diaphragm seals, thermometers & digital instruments
-- 📫 How to reach me: ... www.winters.com 
+- 📫 How to reach me: ... My website at www.winters.com 
 - ⚡ Fun fact: ... I am a leading global manufacturer of pressure gauges, pressure transmitters, pressure switches, diaphragm seals, thermometers & digital instruments
 -->
